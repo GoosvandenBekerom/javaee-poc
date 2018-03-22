@@ -1,0 +1,10 @@
+# Gradle generated files
+.gradle
+*.iml
+
+# IDE specific files
+.idea
+
+# build files
+build
+out
